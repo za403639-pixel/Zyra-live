@@ -1,0 +1,6 @@
+{
+  "name": "ZYRA",
+  "description": "Luxury live voice chat app with 1 host and 8 guest seats, VIP status, virtual gifts, and real-time audio rooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
